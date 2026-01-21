@@ -29,7 +29,7 @@
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/InvoiceMate.git
+   git clone https://github.com/kumudasrip/InvoiceMate.git
 
 2. Open index.html in your browser.
 
